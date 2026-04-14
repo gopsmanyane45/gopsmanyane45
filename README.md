@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on creating a data pipeline 
+- 🌱 I’m currently learning Data Normalisation, Data Architecture/Data Modeling using SQL, Excel , Draio
+
 <!--
 **gopsmanyane45/gopsmanyane45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
