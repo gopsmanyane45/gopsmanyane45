@@ -1,4 +1,4 @@
-# Hi, I'm Gopolang Gops Manyane 👋
+# Hi, I'm Gopolang Manyane 👋
 
 **Data Engineer & Analyst** | Brightlearn Student | Building scalable data solutions
 
